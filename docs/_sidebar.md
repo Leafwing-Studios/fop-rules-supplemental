@@ -1,1 +1,3 @@
 - [Quantum Stealth Rules](/quantum-stealth.md)
+- [Elementalist](/elementalist.md)
+- [Elementalist Spells](/elementalist-spells.md)
